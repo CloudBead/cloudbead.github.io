@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "CBlog"
+title                    : "CloudBead LOG"
 title_separator          : "-"
 subtitle                 : 
 name                     : "CloudBead"
