@@ -14,6 +14,8 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
+math: true
+
 # Site Settings
 locale                   : "ko-KR"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
