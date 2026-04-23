@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
 title                    : "CloudBead LOG"
 title_separator          : "-"
-subtitle                 : "주끼끼"
+subtitle                 : "since today"
 name                     : "CloudBead"
 description              : ""
 url                      : "https://cloudbead.github.io"
