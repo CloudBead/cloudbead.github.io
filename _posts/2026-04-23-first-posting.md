@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "블로그 양식 저장"
-categories: Algorithm
-tag: python
+title: "MarkDown 기본 문법"
+categories: Blog
+tag: Blog
 toc: true
 ---
 
